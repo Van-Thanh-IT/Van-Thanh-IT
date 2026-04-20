@@ -26,18 +26,3 @@ Passionate about solving real-world problems and continuously improving backend 
 </p>
 
 ---
-
-## 🔗 Contact
-<p align="center">
-  <a href="https://facebook.com/your-profile">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-
-  <a href="https://zalo.me/your-phone">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="48"/>
-  </a>
-
-  <a href="mailto:lovanthanh34523@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
