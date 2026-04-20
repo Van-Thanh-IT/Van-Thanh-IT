@@ -1,24 +1,21 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?q=80&w=1600&auto=format&fit=crop" width="100%" />
-</p>
 
-<h2 align="center">Hi 👋 I'm Your Name</h2>
+<h2 align="center">Hi 👋 I'm Van-Thanh-IT</h2>
 <p align="center">
-  ☕ Java Spring Backend Developer
+   Java Spring Backend Developer
 </p>
 
 ---
 
 ## 👋 About
-Backend developer focused on building scalable APIs with Spring Boot.  
-Passionate about clean architecture and performance.
+Backend developer specializing in building scalable and high-performance APIs with Spring Boot.  
+Focused on clean architecture, efficient system design, and maintainable code.  
+Passionate about solving real-world problems and continuously improving backend systems.
 
 ---
 
 ## ⚙️ Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,git,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,git,postman,intellij,linux" />
 </p>
 
 ---
