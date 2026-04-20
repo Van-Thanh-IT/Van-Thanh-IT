@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/your-banner.jpg" width="100%" />
+  <img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
 
 <h2 align="center">Hi 👋 I'm Your Name</h2>
