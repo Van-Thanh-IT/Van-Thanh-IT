@@ -15,7 +15,7 @@ Passionate about solving real-world problems and continuously improving backend 
 
 ## ⚙️ Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,git,postman,intellij,linux" />
+ <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,kafka,git,postman,intellij,linux,maven" />
 </p>
 
 ---
