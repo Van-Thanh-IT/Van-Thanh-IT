@@ -15,25 +15,29 @@ Passionate about solving real-world problems and continuously improving backend 
 
 ## ⚙️ Backend & Tools
 <p>
- <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,kafka,git,postman,intellij,linux,maven" />
+ <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,postman,linux" />
 </p>
 
 ---
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Van-Thanh-IT&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🔗 Contact
-<p>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+  <a href="https://facebook.com/your-profile">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
-  
-  <a href="mailto:your@email.com">
+
+  <a href="https://zalo.me/your-phone">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="48"/>
+  </a>
+
+  <a href="mailto:lovanthanh34523@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
